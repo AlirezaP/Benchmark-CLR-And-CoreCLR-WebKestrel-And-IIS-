@@ -5,6 +5,11 @@ This test done in my personal PC (OS: Win10)<br/>
 
 This is Not Exact But is good For Approximate knowledge.<br/>
 
+Scenario:<br/>
+-create a simple web page.<br/>
+-load data from db (637046 record in my test) and show in the web page.<br/>
+-run load test on the page.<br/>
+
 <table align="center" border="1" width="1000" style="text-align:center">
     <tr>
         <td>
